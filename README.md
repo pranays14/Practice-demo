@@ -1,2 +1,3 @@
 # Practice-demo
-This repo is for practicing  github.
+This repo is for practicing  Git Hub.
+Author -Pranay
